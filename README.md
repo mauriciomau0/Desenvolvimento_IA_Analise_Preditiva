@@ -1,6 +1,6 @@
 # Curso de Desenvolvimento de IA para Análise Preditiva
 
-Todo o conteúdo das aulas teóricas e práticas será disponibilizado nesse repositório, incluindo documentos, links para acesso a notebooks e vídeos complementares que mostram aplicações reais do conteúdo.  
+Os conteúdos teóricos e práticos do curso também serão disponibilizados nesse repositório, incluindo documentos, links para acesso a notebooks e vídeos complementares que mostram aplicações reais do conteúdo.  
 
 **Arquivos Complementares:**
 
