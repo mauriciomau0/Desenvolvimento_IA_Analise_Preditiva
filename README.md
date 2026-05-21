@@ -4,4 +4,4 @@ Todo o conteúdo das aulas teóricas e práticas será disponibilizado nesse rep
 
 **Arquivos Complementares:**
 
-- [x] [Notebook complementar e aprofundada de análise exploratória de dados, envolvendo a manipulação e visualização de dados com as bibliotecas Pandas e Numpy](https://nustat.github.io/DataScience_Intro_python/Reading%20data.html)
+- [x] Notebook complementar e aprofundada de análise exploratória de dados, envolvendo a manipulação e visualização de dados com as bibliotecas Pandas e Numpy: [Acesse](https://nustat.github.io/DataScience_Intro_python/Reading%20data.html)
